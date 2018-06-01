@@ -1,0 +1,1 @@
+A chat bot created with python for private use for Discord. Uses the discord.py library. 
